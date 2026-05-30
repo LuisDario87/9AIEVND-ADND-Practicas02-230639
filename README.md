@@ -1,6 +1,6 @@
 # 9AIEVND-ADND-Practicas02-230639
 
-![Logo](images/logo.png)
+![logo TIC](https://github.com/LuisDario87/9AIEVND-ADND-Practicas-230639-2/blob/main/Images/image.avif)
 
 ## Descripción
 Repositorio de prácticas de Análisis de Datos.
