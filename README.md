@@ -7,8 +7,4 @@ Repositorio de prácticas de Análisis de Datos.
 
 | Práctica | Link |
 |-----------|-----------|
-<<<<<<< HEAD
 | Practica 02 | [Abrir Notebook](Practica02/Practica2_230639.ipynb) |
-=======
-| Practica 02 | [Abrir Notebook](Practica02/Practica02_230639.ipynb) |
->>>>>>> Practica02
